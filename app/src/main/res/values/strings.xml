@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidInfiniteRecyclerViewExample</string>
+    <string name="for_test">for test\n</string>
+    <string name="title_official_dish">title official dish %d</string>
+    <string name="cost_official_dish">%d0,000</string>
+    <string name="category">category %d</string>
+</resources>
